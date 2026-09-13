@@ -244,4 +244,4 @@ This repository serves as the official landing page for Amazon Photos. The softw
 **Get the most recent version of Amazon Photos today!**
 
 ---
-**Last updated:** 2026-09-12 23:39:14 UTC
+**Last updated:** 2026-09-13 02:25:37 UTC
